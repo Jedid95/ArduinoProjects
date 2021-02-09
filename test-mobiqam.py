@@ -30,6 +30,9 @@ def input_menu():
     print('Enter the numeric string: ')
     sequence = input()
     #input data checks
+    if len(sequence)>9:
+        print('Only max 9 digits')
+        exit()
     if "0" in sequence:
         print('Only numers 1-9')
         exit()
