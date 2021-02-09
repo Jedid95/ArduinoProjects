@@ -1,0 +1,4 @@
+API_1: 
+- https://www.themoviedb.org/ 
+- https://developers.themoviedb.org/3/getting-started/json-and-jsonp
+- json example: https://api.themoviedb.org/3/search/person?api_key=371b0f0a31e932793fe08a58ec2a5d9d&query=Tom%20Cruise&format=json
